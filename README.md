@@ -1,4 +1,3 @@
-# Market-Segmentation-on-Fast-Food-Dataset
 
 ## 🧠 McDonald's Market Segmentation Analysis
 This project applies advanced market segmentation techniques on a fast-food consumer dataset related to McDonald’s. The goal is to identify meaningful consumer clusters using unsupervised learning methods and to profile them based on their perceptions and preferences. The analysis was originally demonstrated in R, and this project fully replicates and extends the logic using Python.
