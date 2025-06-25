@@ -10,18 +10,27 @@ Binary clustering (k-means, LCA)
 
 Principal Component Analysis (PCA)
 
+Global stability boxplot(Bootstrap Flexclust)
+
+Segment Level Stability(SLSA) Plot across solutions as well as within solutions
+
 Mosaic and bar plots for profiling
 
 Segment stability and evaluation techniques
 
 ### 🧰 Libraries Used
-
 pandas, numpy: data manipulation
+
 matplotlib, seaborn: visualizations
+
 sklearn: PCA, k-means, label encoding, cluster evaluation
+
 statsmodels.graphics.mosaicplot: mosaic plots
+
 scipy.cluster.hierarchy: hierarchical clustering
+
 bioinfokit: cluster visualization (optional)
+
 plotly.express: enhanced visualizations (optional)
 
 ### 🧾 Dataset
